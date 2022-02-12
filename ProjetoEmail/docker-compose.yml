@@ -1,0 +1,13 @@
+version: '2.2.3'
+
+services:
+  projeto-EnviaEmailGmail:
+    image: projetoemail
+    build:
+      context: .
+    networks:
+      - projemail-network
+
+networks: 
+    projemail-network:
+      driver: bridge

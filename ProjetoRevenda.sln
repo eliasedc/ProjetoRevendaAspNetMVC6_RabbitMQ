@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoRevenda", "ProjetoRevenda\ProjetoRevenda.csproj", "{853F5257-850D-4584-8289-75E48DCE6CC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3328436-DB3E-4131-927E-7F7D0725011B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoEmail", "ProjetoEmail\ProjetoEmail.csproj", "{21BC7AC3-9EB3-415E-967F-FC0F7DDA5A9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoRevenda.Tests", "ProjetoRevenda.Tests\ProjetoRevenda.Tests.csproj", "{C7587FF4-AC0E-44AD-8BAA-583F989EF8DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integracao.RabbitMQ", "Integracao.RabbitMQ\Integracao.RabbitMQ.csproj", "{C1FE3D46-687E-4655-8419-8D15B188CE8C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptBanco", "ScriptBanco", "{67833284-F6D6-47C1-99EC-C1451C5717C8}"
+	ProjectSection(SolutionItems) = preProject
+		..\ProjetoRevenda_\Script DataBase ProjetoRevenda.sql = ..\ProjetoRevenda_\Script DataBase ProjetoRevenda.sql
+		..\ProjetoRevenda_\Script Tabelas ProjetoRevenda.sql = ..\ProjetoRevenda_\Script Tabelas ProjetoRevenda.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853F5257-850D-4584-8289-75E48DCE6CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853F5257-850D-4584-8289-75E48DCE6CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853F5257-850D-4584-8289-75E48DCE6CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853F5257-850D-4584-8289-75E48DCE6CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21BC7AC3-9EB3-415E-967F-FC0F7DDA5A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BC7AC3-9EB3-415E-967F-FC0F7DDA5A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BC7AC3-9EB3-415E-967F-FC0F7DDA5A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BC7AC3-9EB3-415E-967F-FC0F7DDA5A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7587FF4-AC0E-44AD-8BAA-583F989EF8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7587FF4-AC0E-44AD-8BAA-583F989EF8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7587FF4-AC0E-44AD-8BAA-583F989EF8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7587FF4-AC0E-44AD-8BAA-583F989EF8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1FE3D46-687E-4655-8419-8D15B188CE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FE3D46-687E-4655-8419-8D15B188CE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FE3D46-687E-4655-8419-8D15B188CE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FE3D46-687E-4655-8419-8D15B188CE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCA999B-3E08-408D-904D-60020E60AE79}
+	EndGlobalSection
+EndGlobal

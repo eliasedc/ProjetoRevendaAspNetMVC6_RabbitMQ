@@ -1,0 +1,38 @@
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\appsettings_RabbitMQ.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.deps.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfo.cs
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\bin\Debug\net6.0\appsettings_RabbitMQ.json
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.deps.json
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\bin\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.pdb
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfo.cs
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\Downloads\ProjetoRevenda-main\ProjetoRevenda-main\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.pdb
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\appsettings_RabbitMQ.json
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.deps.json
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.dll
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\bin\Debug\net6.0\Integracao.RabbitMQ.pdb
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.AssemblyInfo.cs
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.dll
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\ref\Integracao.RabbitMQ.dll
+D:\OneDrive\Projetos\ProjetoRevenda\Integracao.RabbitMQ\obj\Debug\net6.0\Integracao.RabbitMQ.pdb

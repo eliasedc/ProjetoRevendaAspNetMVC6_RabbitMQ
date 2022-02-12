@@ -1,0 +1,12 @@
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Release\net6.0\appsettings_RabbitMQ.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Release\net6.0\Integracao.RabbitMQ.deps.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Release\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Release\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\bin\Release\net6.0\Integracao.RabbitMQ.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.AssemblyInfo.cs
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\ref\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\Integracao.RabbitMQ\obj\Release\net6.0\Integracao.RabbitMQ.pdb

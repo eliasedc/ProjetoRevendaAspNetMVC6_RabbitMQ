@@ -1,0 +1,34 @@
+﻿@model ProjetoRevenda.Models.DB.Marca
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Marca</h4>
+    <hr />
+    <dl class="row offset-4 text-start">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class = "col-sm-10">
+            @{
+                string strStatus = Model.Status == "A" ? "Ativo" : "Cancelado";
+            }
+            @Html.DisplayFor(modelItem => strStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
+    <a asp-action="Index">Voltar para Lista</a>
+</div>
+<br /><br />

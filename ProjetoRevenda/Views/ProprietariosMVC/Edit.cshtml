@@ -1,0 +1,80 @@
+﻿@model ProjetoRevenda.Models.DB.Proprietario
+
+@{
+    ViewData["Title"] = "Editar Proprietário";
+}
+
+<h1>Editar</h1>
+
+<h4>Proprietário</h4>
+<hr />
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+
+        <div class="row offset-md-2">
+            <label asp-for="Nome" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Documento" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Documento" class="form-control" onkeypress="mascaraCpfCnpj(this, cpfCnpj)"/>
+                <span asp-validation-for="Documento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Email" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Cep" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Cep" class="form-control" onblur="ResgatarEnderecoCEP(this)" />
+                <span asp-validation-for="Cep" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Endereco" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Endereco" class="form-control" id="Endereco"/>
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Complemento" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Complemento" class="form-control" />
+                <span asp-validation-for="Complemento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Status" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                @{
+                    List<SelectListItem> lstStatus = new List<SelectListItem>()
+                        {
+                            new SelectListItem() { Text =  "Ativo", Value = "A"},
+                            new SelectListItem() { Text =  "Cancelado", Value = "C"}
+                        };
+                }
+                @Html.DropDownListFor(model => model.Status, lstStatus, new {@class = "form-control" })                                           
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div><br />
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+<div>
+    <a asp-action="Index">Voltar para Lista</a>
+</div> <br /><br />
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

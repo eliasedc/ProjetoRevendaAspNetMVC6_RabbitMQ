@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ProjetoRevenda.Models.DB.Marca>
+
+@{
+    ViewData["Title"] = "Manutenção de Marcas";
+}
+
+<h1>Manutenção de Marcas</h1>
+
+<p>    
+    <a asp-action="Create" class="btn btn-primary">Nova Marca</a>
+
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th class="text-start">
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-start">
+                @Html.DisplayFor(modelItem => item.Nome, new {@class = ""})
+            </td>
+            <td>
+                @{
+                    string strStatus = item.Status == "A" ? "Ativo" : "Cancelado";
+                }
+                @Html.DisplayFor(modelItem => strStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "853f5257-850d-4584-8289-75e48dce6cc4": {
+      "ProjectGuid": "853f5257-850d-4584-8289-75e48dce6cc4",
+      "DisplayName": "ProjetoRevenda",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 1
+    },
+    "e3328436-db3e-4131-927e-7f7d0725011b": {
+      "ProjectGuid": "e3328436-db3e-4131-927e-7f7d0725011b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "21bc7ac3-9eb3-415e-967f-fc0f7dda5a9b": {
+      "ProjectGuid": "21bc7ac3-9eb3-415e-967f-fc0f7dda5a9b",
+      "DisplayName": "ProjetoEmail",
+      "ColorIndex": 3
+    },
+    "c7587ff4-ac0e-44ad-8baa-583f989ef8dc": {
+      "ProjectGuid": "c7587ff4-ac0e-44ad-8baa-583f989ef8dc",
+      "DisplayName": "ProjetoRevenda.Tests",
+      "ColorIndex": 4
+    },
+    "c1fe3d46-687e-4655-8419-8d15b188ce8c": {
+      "ProjectGuid": "c1fe3d46-687e-4655-8419-8d15b188ce8c",
+      "DisplayName": "Integracao.RabbitMQ",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,11 @@
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\ProjetoEmail.exe
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\ProjetoEmail.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\ProjetoEmail.deps.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\ProjetoEmail.runtimeconfig.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\ProjetoEmail.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Release\net6.0\publish\RabbitMQ.Client.dll

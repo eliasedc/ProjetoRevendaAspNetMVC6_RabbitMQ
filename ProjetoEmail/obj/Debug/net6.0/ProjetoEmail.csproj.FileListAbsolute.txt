@@ -1,0 +1,50 @@
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.exe
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\appsettings.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\appsettings_RabbitMQ.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.deps.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.runtimeconfig.json
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ref\ProjetoEmail.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Integracao.RabbitMQ.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Integracao.RabbitMQ.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.AssemblyReference.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.AssemblyInfoInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.AssemblyInfo.cs
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.CoreCompileInputs.cache
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.CopyComplete
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ref\ProjetoEmail.dll
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.pdb
+C:\Users\Elias - TI\source\repos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.genruntimeconfig.cache
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.exe
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\appsettings_RabbitMQ.json
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\appsettings.json
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.deps.json
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.runtimeconfig.json
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ref\ProjetoEmail.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\ProjetoEmail.pdb
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Integracao.RabbitMQ.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\bin\Debug\net6.0\Integracao.RabbitMQ.pdb
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.AssemblyInfo.cs
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.csproj.CopyComplete
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ref\ProjetoEmail.dll
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.pdb
+D:\OneDrive\Projetos\ProjetoRevenda\ProjetoEmail\obj\Debug\net6.0\ProjetoEmail.genruntimeconfig.cache

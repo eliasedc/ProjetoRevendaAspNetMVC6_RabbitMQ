@@ -1,0 +1,549 @@
+﻿++Solution 'ProjetoRevenda' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ProjetoRevenda.sln
+++ProjetoRevenda
+i:{00000000-0000-0000-0000-000000000000}:ProjetoRevenda
+++Connected Services 
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>912
+++Dependencies
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>911
+++Properties
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\properties\
+++wwwroot
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\
+++css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\css\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\
+++site.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\css\site.css
+++js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\js\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\
+++site.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\js\site.js
+++lib
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\
+++bootstrap
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\
+++dist
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\dist\
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\dist\
+++bootstrap.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.css
+++bootstrap-grid.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.css
+++bootstrap.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.js
+++LICENSE
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\license
+++jquery
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\
+++jquery-validation
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation-unobtrusive\
+++twitter-bootstrap
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\
+++favicon.ico
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\favicon.ico
+++Controllers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\controllers\
+++HomeController.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\controllers\homecontroller.cs
+++MarcasMVCController.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\controllers\marcasmvccontroller.cs
+++Models
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\
+++DB
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\
+++BDDesenvolContext.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\bddesenvolcontext.cs
+++Marca.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\marca.cs
+++Poprietario.cs
+++Veiculo.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\veiculo.cs
+++VeiculoStatus.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\veiculostatus.cs
+++ErrorViewModel.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\errorviewmodel.cs
+++Views
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\
+++Home
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\home\
+++Index.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\home\index.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\index.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\index.cshtml
+++Privacy.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\home\privacy.cshtml
+++MarcasMVC
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\
+++Create.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\create.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\create.cshtml
+++Delete.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\delete.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\delete.cshtml
+++Details.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\details.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\details.cshtml
+++Edit.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\marcasmvc\edit.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\edit.cshtml
+++Shared
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\shared\
+++_Layout.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\_viewstart.cshtml
+++appsettings.json
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\appsettings.json
+++Dockerfile
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\dockerfile
+++libman.json
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\libman.json
+++Program.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\program.cs
+++No service dependencies discovered
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>913
+++Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:analyzers
+++Frameworks
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:frameworks
+++Packages
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:packages
+++launchSettings.json
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\properties\launchsettings.json
+++bootstrap.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map
+++bootstrap.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map
+++bootstrap.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js
+++LICENSE.txt
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\license.txt
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\
+++_Layout.cshtml.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\appsettings.development.json
+++.dockerignore
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\.dockerignore
+++MessagePackAnalyzer
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>925
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>924
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>927
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>928
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>929
+++System.Configuration.ConfigurationManager (6.0.0)
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:>926
+++bootstrap.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map
+++jquery.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++forms
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\
+++helpers
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\
+++mixins
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\
+++utilities
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\utilities\
+++vendor
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\vendor\
+++_accordion.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_accordion.scss
+++_alert.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_alert.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_badge.scss
+++_breadcrumb.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_buttons.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_card.scss
+++_carousel.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_carousel.scss
+++_close.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_close.scss
+++_containers.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_containers.scss
+++_dropdown.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_forms.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_functions.scss
+++_grid.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_grid.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_grid.scss
+++_helpers.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_helpers.scss
+++_images.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_images.scss
+++_list-group.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_list-group.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_list-group.scss
+++_mixins.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_modal.scss
+++_nav.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_navbar.scss
+++_offcanvas.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_offcanvas.scss
+++_pagination.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_pagination.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_pagination.scss
+++_placeholders.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_placeholders.scss
+++_popover.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_popover.scss
+++_progress.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_reboot.scss
+++_root.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_root.scss
+++_spinners.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_transitions.scss
+++_type.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_type.scss
+++_utilities.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_utilities.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_utilities.scss
+++_variables.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\bootstrap-utilities.scss
+++bootstrap.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\js\bootstrap.esm.min.js.map
+++jquery.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++_floating-labels.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_floating-labels.scss
+++_form-check.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_form-check.scss
+++_form-control.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_form-control.scss
+++_form-range.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_form-range.scss
+++_form-select.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_form-select.scss
+++_form-text.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_form-text.scss
+++_input-group.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_input-group.scss
+++_labels.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_labels.scss
+++_validation.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\forms\_validation.scss
+++_clearfix.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_clearfix.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_clearfix.scss
+++_colored-links.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_colored-links.scss
+++_position.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_position.scss
+++_ratio.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_ratio.scss
+++_stacks.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_stacks.scss
+++_stretched-link.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_visually-hidden.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_visually-hidden.scss
+++_vr.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\helpers\_vr.scss
+++_backdrop.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_backdrop.scss
+++_border-radius.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_caret.scss
+++_color-scheme.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_color-scheme.scss
+++_container.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_container.scss
+++_deprecate.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_deprecate.scss
+++_gradients.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_gradients.scss
+++_image.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_lists.scss
+++_reset-text.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_resize.scss
+++_table-variants.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\mixins\_transition.scss
+++_api.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\utilities\_api.scss
+++_rfs.scss
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\twitter-bootstrap\scss\vendor\_rfs.scss
+++jquery.min.map
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\wwwroot\lib\jquery\dist\jquery.min.map
+++VeiculoAttributes.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\customattributes\veiculoattributes.cs
+++NewFolder
+++CustomAttributes
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\customattributes\
+++PoprietariosMVCController.cs
+++PoprietariosMVC
+++Proprietario.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\models\db\proprietario.cs
+++ProprietariosMVCController.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\controllers\proprietariosmvccontroller.cs
+++ProprietariosMVC
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\views\proprietariosmvc\
+++Utils
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\utils\
+++Utilidades.cs
+i:{853f5257-850d-4584-8289-75e48dce6cc4}:c:\users\elias - ti\source\repos\projetorevenda\projetorevenda\utils\utilidades.cs
+++Script Documents
+++VM5
+++aspnetcore-browser-refresh.js
+++browserLink
+++Create
+++VM24
+++VM25
+++VM26
+++VM28
+++VM29
+++VM30
+++VM31
+++VM32
+++VM33
+++VM34
+++VM35
+++VM36
+++VM37
+++VM39
+++VM40
+++VM41
+++VM42
+++VM43
+++VM44
+++VM45
+++VM46
+++VM47
+++VM48
+++VM50
+++VM51
+++VM52
+++VM27
+++VM38

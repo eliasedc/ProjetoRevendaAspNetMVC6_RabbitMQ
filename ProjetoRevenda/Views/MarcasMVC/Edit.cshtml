@@ -1,0 +1,49 @@
+﻿@model ProjetoRevenda.Models.DB.Marca
+
+@{
+    ViewData["Title"] = "Editar Marca";
+}
+
+<h1>Editar</h1>
+
+<h4>Marca</h4>
+<hr />
+    <form asp-action="Edit">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="Id" />
+            
+        <div class="row offset-md-3">
+            <label asp-for="Nome" class="col-sm-2 col-form-label"></label>
+            <div class=col-sm-4>
+                <input asp-for="Nome" class="form-control" readonly="readonly" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row offset-md-3">
+            <label asp-for="Status" class="col-sm-2 col-form-label"></label>
+            <div class=col-sm-4>
+                @{
+                    List<SelectListItem> lstStatus = new List<SelectListItem>()
+                        {
+                            new SelectListItem() { Text =  "Ativo", Value = "A"},
+                            new SelectListItem() { Text =  "Cancelado", Value = "C"}
+                        };
+                }
+                @Html.DropDownListFor(model => model.Status, lstStatus, new {@class = "form-control" })                                           
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+<br/>
+<div>
+    <a asp-action="Index">Voltar para a Lista</a>
+</div>
+<br /><br />
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

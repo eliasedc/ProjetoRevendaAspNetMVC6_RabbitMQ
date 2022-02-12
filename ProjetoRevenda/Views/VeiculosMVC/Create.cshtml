@@ -1,0 +1,87 @@
+﻿@model ProjetoRevenda.Models.DB.Veiculo
+
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<h1>Criar</h1>
+
+<h4>Veículo</h4>
+<hr />
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>        
+        <div class="row offset-md-2">
+            <label asp-for="Renavam" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Renavam" class="form-control" />
+                <span asp-validation-for="Renavam" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="ProprietarioId" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <select asp-for="ProprietarioId" class ="form-control" asp-items="ViewBag.ProprietarioId"></select>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="MarcaId" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <select asp-for="MarcaId" class ="form-control" asp-items="ViewBag.MarcaId"></select>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Modelo" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Modelo" class="form-control" />
+                <span asp-validation-for="Modelo" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="AnoFabricacao"class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="AnoFabricacao" class="form-control" />
+                <span asp-validation-for="AnoFabricacao" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="AnoModelo" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="AnoModelo" class="form-control" />
+                <span asp-validation-for="AnoModelo" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Quilometragem" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Quilometragem" class="form-control" />
+                <span asp-validation-for="Quilometragem" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="Valor" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <input asp-for="Valor" class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+                
+        </div>
+        <div class="row offset-md-2">
+            <label asp-for="StatusVeiculoId" class="col-sm-3 col-form-label"></label>
+            <div class=col-sm-6>
+                <select asp-for="StatusVeiculoId" class ="form-control" asp-items="ViewBag.StatusVeiculoId" readonly="readonly"></select>
+                <span asp-validation-for="StatusVeiculoId" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
+<br/>
+<div>
+    <a asp-action="Index">Voltar para a Lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
